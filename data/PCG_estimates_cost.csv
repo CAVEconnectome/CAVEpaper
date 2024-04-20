@@ -1,0 +1,5 @@
+dataset,version,bigtable,gcs,estimate?,total
+minnie65,1,10127.097,0,1,10127.097
+minnie65,2,1318.002,196.4,0,1514.402
+flywire,1,215.184,0,0,215.184
+flywire,2,26.898,2.92,0,29.818
